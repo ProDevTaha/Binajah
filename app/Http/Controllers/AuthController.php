@@ -84,4 +84,8 @@ class AuthController extends Controller
         }
     }
 
+    public function createTest(){
+        return 'fin azin';
+    }
+
 }
